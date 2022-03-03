@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020C0077B8C7BA5E93BB4281A9EF3C393B6B48" DefaultItemContentTypeName="FIDU - TLS - VAT Document" DefaultFolderContentTypeId="0x0120009F7B80F2E7E12146BDEDF3FC2311C1D6" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x012000A5581805F9DE3446A5A463410FAD0740" SourceName="Folder" DestinationId="0x0120009F7B80F2E7E12146BDEDF3FC2311C1D6" DestinationName="Folder" />
+    <Mapping SourceId="0x010100F81A7AC3C3B74D4393830CFEBBCB444A09008687E98A4AD9F442838FDF9ED1B5B7E0" SourceName="FIDU – TLS – VAT Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020C0077B8C7BA5E93BB4281A9EF3C393B6B48" DestinationName="FIDU - TLS - VAT Document" />
+  </Mappings>
+</ContentTypeMappings>

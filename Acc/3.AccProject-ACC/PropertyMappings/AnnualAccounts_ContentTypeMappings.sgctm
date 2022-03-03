@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020400D381BC63972F684C8CE6DE831D53F999" DefaultItemContentTypeName="FIDU - ACC - Annual Accounts Document" DefaultFolderContentTypeId="0x01200067BA0ADED5E50046ACFC094742FAD82D" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0101002DCAD01B439D1A48B35E9A90721C86520200645BCFC6719A5A47B1A69301B5E5F3B8" SourceName="FIDU - ACC - Annual Accounts Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020400D381BC63972F684C8CE6DE831D53F999" DestinationName="FIDU - ACC - Annual Accounts Document" />
+    <Mapping SourceId="0x012000951E6CAB32E75D45A5CA929AAB3F3A9F" SourceName="Folder" DestinationId="0x01200067BA0ADED5E50046ACFC094742FAD82D" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>

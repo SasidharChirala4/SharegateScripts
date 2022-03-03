@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<PropertyMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Mappings>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+    </Mapping>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Title" Title="Title" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Title" Title="Title" />
+    </Mapping>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Created" Title="Created" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Created" Title="Created" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Author" Title="Created By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Author" Title="Created By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Modified" Title="Modified" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Modified" Title="Modified" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Editor" Title="Modified By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Editor" Title="Modified By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Order" Title="Order" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Order" Title="Order" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Year" Title="Year" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrYear" Title="Year" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Month" Title="Month" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMonth" Title="Month" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="ClientName" Title="Client Name" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrClientName" Title="Client Name" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="ClientIndustry" Title="Client Industry" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrClientIndustry" Title="Client Industry" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="ProjectName" Title="Project Name" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrProjectName" Title="Project Name" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="ClientNumber" Title="Client Number" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrClientNumber" Title="Client Number" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="ProjectNumber" Title="Project Number" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrProjectNumber" Title="Project Number" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Barcode" Title="Barcode" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrBarcode" Title="Barcode" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="RoutingInfo" Title="Routing Info" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrRoutingInfo" Title="Routing Info" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="RequestOriginal" Title="Request Original" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrRequestOriginal" Title="Request Original" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Edreams_Comments" Title="Comments" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrComments" Title="Comments" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="MailSent" Title="Mail Sent" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailSent" Title="Mail Sent" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Edreams_From" Title="From" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailFrom" Title="From" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="To" Title="To" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailTo" Title="To" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="CC" Title="CC" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailCc" Title="Cc" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="DocumentCategory" Title="Document Category" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrDocumentCategory" Title="Document Category" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="AssignmentType" Title="Assignment Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrAssignmentType" Title="Assignment Type" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Status" Title="Status" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMigrationStatus" Title="Status" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="AssignmentType" Title="Assignment Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMigrationAssignmentType" Title="Assignment Type" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="DocumentCategory" Title="Document Category" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMigrationDocumentCategory" Title="Document Category" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="MailCategory" Title="Mail Category" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailCategory" Title="Mail Category" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Edreams_Subject" Title="Subject" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailSubject" Title="Subject" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="HighlyConfidential" Title="Highly Confidential" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrDataClassification" Title="Data Classification" />
+    </Mapping>
+  </Mappings>
+</PropertyMappings>

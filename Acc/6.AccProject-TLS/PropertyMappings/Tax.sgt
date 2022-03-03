@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<ArrayOfPropertyTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PropertyTemplate Id="be14d923-444b-4da0-9a26-3318cd362b42" ListId="660a3b98-e6bc-4d51-87c4-3a79f70a6c1c" Name="TaxTemplate" CheckInType="CopySource" ModerationStatusType="Ignore" KeepAuthorsAndTimestamps="true" CopyVersionHistory="true" CopyUserAlerts="false" CopyPermissions="false" CorrectLinks="true" FlattenFolders="false" CopyWebParts="false" TemplateType="Copy" HasVersionsLimit="false" VersionsLimit="5" ContentFileExtension="" ContentFileExtensionFilterType="AllExtensions">
+    <ContentTypes>
+      <ContentTypes ParentContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020A" Name="FIDU - TLS - Tax Document">
+        <Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="Title">
+            <Value />
+          </Columns>
+          <Columns Action="ForceValue" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDataClassification">
+            <Value>Confidential</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrGroup">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrLanguage" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrOffice">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrCode">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrStatus" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDocumentTypeTax" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrExpirationDate" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTaxYear" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTlsSubjectTax" />
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrMailCategory" />
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailSent" />
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailReceived" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailFrom">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailTo">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailCc">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailSubject">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailMessageId">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationId">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationTopic">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailHasAttachments">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailImportance">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsReadReceiptRequested">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsUnmodified">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Author">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Created" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Editor">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Modified" />
+          <Columns Action="ForceValue" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrCalendarYear">
+            <Value>2017</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="k5e62abcc719409f84adc8dba109cc9f">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="n77b96ca03f74f07ad3eaaee51f3656f">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectName">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientName">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMigrationStatus">
+            <Value />
+          </Columns>
+        </Columns>
+      </ContentTypes>
+      <ContentTypes ParentContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF401010A" Name="FIDU - TLS - Tax Mail">
+        <Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="Title">
+            <Value />
+          </Columns>
+          <Columns Action="ForceValue" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDataClassification">
+            <Value>Confidential</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrMailCategory" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailSent" />
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailReceived" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailFrom">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailTo">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailCc">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailSubject">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailMessageId">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationId">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationTopic">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailHasAttachments">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailImportance">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsReadReceiptRequested">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsUnmodified">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrLanguage" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrOffice">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrStatus" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrCode">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrGroup">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDocumentTypeTax" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrExpirationDate" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTaxYear" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTlsSubjectTax" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Author">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Created" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Editor">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Modified" />
+          <Columns Action="ForceValue" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrCalendarYear">
+            <Value>2017</Value>
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="k5e62abcc719409f84adc8dba109cc9f">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Note" Name="n77b96ca03f74f07ad3eaaee51f3656f">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectName">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientName">
+            <Value />
+          </Columns>
+          <Columns Action="Ignore" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMigrationStatus">
+            <Value />
+          </Columns>
+        </Columns>
+      </ContentTypes>
+      <ContentTypes ParentContentTypeId="0x0120" Name="Folder">
+        <Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="Title">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDataClassification" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrGroup">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrLanguage" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrOffice">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrCode">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrStatus" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrDocumentTypeTax" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrExpirationDate" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTaxYear" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrTlsSubjectTax" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrMailCategory" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailSent" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="dttedrMailReceived" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailFrom">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailTo">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailCc">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="dttedrMailSubject">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailMessageId">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationId">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailConversationTopic">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailHasAttachments">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMailImportance">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsReadReceiptRequested">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Boolean" Name="dttedrMailIsUnmodified">
+            <Value>0</Value>
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Author">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Created" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="User" Name="Editor">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="DateTime" Name="Modified" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Term" Name="dttedrCalendarYear" />
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="k5e62abcc719409f84adc8dba109cc9f">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Note" Name="n77b96ca03f74f07ad3eaaee51f3656f">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectName">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrClientName">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrProjectNumber">
+            <Value />
+          </Columns>
+          <Columns Action="UseSource" ApplyActionToAllVersions="true" FieldType="Text" Name="dttedrMigrationStatus">
+            <Value />
+          </Columns>
+        </Columns>
+      </ContentTypes>
+    </ContentTypes>
+  </PropertyTemplate>
+</ArrayOfPropertyTemplate>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020B00B92C79C76EF63445ADFB3CE6D697210F" DefaultItemContentTypeName="FIDU - TLS - Social law Document" DefaultFolderContentTypeId="0x01200004B16442AD82104BA58DDC7B55AA51DA" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0120009654F1080605144B9AFCF500829FF2AE" SourceName="Folder" DestinationId="0x01200004B16442AD82104BA58DDC7B55AA51DA" DestinationName="Folder" />
+    <Mapping SourceId="0x010100F81A7AC3C3B74D4393830CFEBBCB444A0C0053076DFBDDCCD24F82E37936F14DD6A4" SourceName="FIDU – TLS – Social law Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020B00B92C79C76EF63445ADFB3CE6D697210F" DestinationName="FIDU - TLS - Social law Document" />
+  </Mappings>
+</ContentTypeMappings>

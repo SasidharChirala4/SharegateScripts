@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<PropertyMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Mappings>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Title" Title="Title" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Title" Title="Title" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Modified" Title="Modified" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Modified" Title="Modified" />
+    </Mapping>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Created" Title="Created" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Created" Title="Created" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Author" Title="Created By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Author" Title="Created By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Editor" Title="Modified By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Editor" Title="Modified By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Order" Title="Order" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Order" Title="Order" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+    </Mapping>
+  </Mappings>
+</PropertyMappings>

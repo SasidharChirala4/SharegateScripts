@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF402020098B1E6CB5C927A43A57FE165D7707D2E" DefaultItemContentTypeName="FIDU - GEN - General advice Document" DefaultFolderContentTypeId="0x012000FE8E504174125A498A59A91577281ACA" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0120003CD95CE1CFC7324595E658D38ED80BB4" SourceName="Folder" DestinationId="0x012000FE8E504174125A498A59A91577281ACA" DestinationName="Folder" />
+    <Mapping SourceId="0x01010078756165D8A49D468FA35E59432D43710E00A70F6AE8008B9441B0108FD6F7297838" SourceName="FIDU – GEN – General advice Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF402020098B1E6CB5C927A43A57FE165D7707D2E" DestinationName="FIDU - GEN - General advice Document" />
+  </Mappings>
+</ContentTypeMappings>

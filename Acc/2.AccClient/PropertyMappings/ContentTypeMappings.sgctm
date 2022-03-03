@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF40201004BC8682233AFAD40A7A7F2A155A1244F" DefaultItemContentTypeName="FIDU - Permanent File Document" DefaultFolderContentTypeId="0x012000F6172566C618714DA16B6DC090C6A981" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x010100751BE82DCFABC840B9F7AA8D07ED959F0600A74D7B377BA10B49A678CE4FBA0C75F8" SourceName="FIDU - Permanent File Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF40201004BC8682233AFAD40A7A7F2A155A1244F" DestinationName="FIDU - Permanent File Document" />
+    <Mapping SourceId="0x012000A16A73B523CA4B42B6B84AFB74EDCFE5" SourceName="Folder" DestinationId="0x012000F6172566C618714DA16B6DC090C6A981" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>

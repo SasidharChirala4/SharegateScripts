@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF40203008D99863947020B4B9F2B709456924A0F" DefaultItemContentTypeName="FIDU - ACC - Bookkeeping Document" DefaultFolderContentTypeId="0x012000F2516FADDF57DD4DBBFD13CB0994874E" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0101002DCAD01B439D1A48B35E9A90721C865201008F105E966724404BBA572B8393D820C3" SourceName="FIDU - ACC - Bookkeeping Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF40203008D99863947020B4B9F2B709456924A0F" DestinationName="FIDU - ACC - Bookkeeping Document" />
+    <Mapping SourceId="0x0120009BDCC1497240634C9FCB01F272AF11F4" SourceName="Folder" DestinationId="0x012000F2516FADDF57DD4DBBFD13CB0994874E" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>

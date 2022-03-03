@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020500A889962349925F4880F223B50EF9595D" DefaultItemContentTypeName="FIDU - ACC - Tax Compliance Document" DefaultFolderContentTypeId="0x012000CAE7ABBB7240024399D856FB428E63C3" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x01200009C7AAE7CEA623489F3F47FCB9868887" SourceName="Folder" DestinationId="0x012000CAE7ABBB7240024399D856FB428E63C3" DestinationName="Folder" />
+    <Mapping SourceId="0x0101002DCAD01B439D1A48B35E9A90721C8652030048FB268237901B42B2BCBC464A6AA2E1" SourceName="FIDU - ACC - Tax Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020500A889962349925F4880F223B50EF9595D" DestinationName="FIDU - ACC - Tax Compliance Document" />
+  </Mappings>
+</ContentTypeMappings>

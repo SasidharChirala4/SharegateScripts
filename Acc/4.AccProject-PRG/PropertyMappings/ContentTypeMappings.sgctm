@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020F0082EA9E2EE8B768489BF9E4F584542803" DefaultItemContentTypeName="FIDU - PRG - Private governance Document" DefaultFolderContentTypeId="0x0120006148934E74907A449D1C8DC6E50AA091" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x01010065564E3CFB13274EA3C0497905BD8C3A0F0098C9E6FAC67E3F4087F3E21EFB1DF56C" SourceName="FIDU - PRG - Private governance Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020F0082EA9E2EE8B768489BF9E4F584542803" DestinationName="FIDU - PRG - Private governance Document" />
+    <Mapping SourceId="0x012000E13B3FB9906EBE4B9E4BAB0E5B821D63" SourceName="Folder" DestinationId="0x0120006148934E74907A449D1C8DC6E50AA091" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>

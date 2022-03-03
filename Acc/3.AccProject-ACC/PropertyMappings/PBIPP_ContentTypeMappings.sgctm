@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF40206007764F7CED2D4E548863894C3D083C751" DefaultItemContentTypeName="FIDU - ACC - PB-IPP Document" DefaultFolderContentTypeId="0x012000E285168829BCE246908BBEAFA2166C49" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0101002DCAD01B439D1A48B35E9A90721C86520400C31468673B2D3943BC23D28D1F24DABF" SourceName="FIDU - ACC - PB-IPP Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF40206007764F7CED2D4E548863894C3D083C751" DestinationName="FIDU - ACC - PB-IPP Document" />
+    <Mapping SourceId="0x012000D330B208369C834AAAA184B2B4BBA5C3" SourceName="Folder" DestinationId="0x012000E285168829BCE246908BBEAFA2166C49" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>

@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<PropertyMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Mappings>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Modified" Title="Modified" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Modified" Title="Modified" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="HTML_x0020_File_x0020_Type" Title="HTML File Type" />
+    </Mapping>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Title" Title="Title" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Title" Title="Title" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="xd_ProgID" Title="HTML File Link" />
+      </SourceProperties>
+      <DestinationProperty InternalName="xd_ProgID" Title="HTML File Link" />
+    </Mapping>
+    <Mapping IsKey="true">
+      <SourceProperties>
+        <Property InternalName="Created" Title="Created" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Created" Title="Created" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrCalendarYear" Title="Calendar Year" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrCalendarYear" Title="Calendar Year" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrDataClassification" Title="Data Classification" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrDataClassification" Title="Data Classification" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrClientName" Title="Client Name" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrClientName" Title="Client Name" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrClientNumber" Title="Client Number" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrClientNumber" Title="Client Number" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrProjectName" Title="Project Name" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrProjectName" Title="Project Name" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrProjectNumber" Title="Project Number" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrProjectNumber" Title="Project Number" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrCode" Title="Code" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrCode" Title="Code" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrExpirationDate" Title="Expiration Date" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrExpirationDate" Title="Expiration Date" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrGroup" Title="Group" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrGroup" Title="Group" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrLanguage" Title="Language" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrLanguage" Title="Language" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrTaxYear" Title="Tax Year" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrTaxYear" Title="Tax Year" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrStatus" Title="Status" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrStatus" Title="Status" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMigrationStatus" Title="Status" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMigrationStatus" Title="Status" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrOffice" Title="Office" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrOffice" Title="Office" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailCategory" Title="Mail Category" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailCategory" Title="Mail Category" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailSent" Title="Mail Sent" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailSent" Title="Mail Sent" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailReceived" Title="Received" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailReceived" Title="Received" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailFrom" Title="From" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailFrom" Title="From" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailTo" Title="To" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailTo" Title="To" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailCc" Title="Cc" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailCc" Title="Cc" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailSubject" Title="Subject" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailSubject" Title="Subject" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailMessageId" Title="Message Id" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailMessageId" Title="Message Id" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailConversationId" Title="Conversation Id" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailConversationId" Title="Conversation Id" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailConversationTopic" Title="Conversation Topic" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailConversationTopic" Title="Conversation Topic" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailHasAttachments" Title="Has Attachments" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailHasAttachments" Title="Has Attachments" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailImportance" Title="Importance" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailImportance" Title="Importance" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailIsReadReceiptRequested" Title="Is Read Receipt Requested" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailIsReadReceiptRequested" Title="Is Read Receipt Requested" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailIsUnmodified" Title="Is Unmodified" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailIsUnmodified" Title="Is Unmodified" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrMailConversationIndex" Title="Conversation Index" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrMailConversationIndex" Title="Conversation Index" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Author" Title="Created By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Author" Title="Created By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Editor" Title="Modified By" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Editor" Title="Modified By" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="Order" Title="Order" />
+      </SourceProperties>
+      <DestinationProperty InternalName="Order" Title="Order" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties />
+      <DestinationProperty InternalName="dttedrAllDocumentsProjectName" Title="Project Name" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrTlsSubjectVat" Title="TLS Subject" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrTlsSubject" Title="TLS Subject" />
+    </Mapping>
+    <Mapping IsKey="false">
+      <SourceProperties>
+        <Property InternalName="dttedrDocumentTypeVat" Title="Document Type" />
+      </SourceProperties>
+      <DestinationProperty InternalName="dttedrTlsDocumentType" Title="Document Type" />
+    </Mapping>
+  </Mappings>
+</PropertyMappings>

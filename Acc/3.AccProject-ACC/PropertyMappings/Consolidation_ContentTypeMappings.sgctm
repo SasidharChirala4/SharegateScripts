@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ContentTypeMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DefaultItemContentTypeId="0x010100C8495732BE2AA14FB59FD73539892FF4020700A656D51659DB524F90A8B83C17272DC2" DefaultItemContentTypeName="FIDU - ACC - Consolidation Document" DefaultFolderContentTypeId="0x01200084B853B68A176241A67A8C171D2F2DA0" DefaultFolderContentTypeName="Folder">
+  <Mappings>
+    <Mapping SourceId="0x0101002DCAD01B439D1A48B35E9A90721C8652050025A7158214899C40B0044B895E7C7D1C" SourceName="FIDU - ACC - Consolidation Document" DestinationId="0x010100C8495732BE2AA14FB59FD73539892FF4020700A656D51659DB524F90A8B83C17272DC2" DestinationName="FIDU - ACC - Consolidation Document" />
+    <Mapping SourceId="0x012000C565DDDEE8954841BB21317D693A53D1" SourceName="Folder" DestinationId="0x01200084B853B68A176241A67A8C171D2F2DA0" DestinationName="Folder" />
+  </Mappings>
+</ContentTypeMappings>
